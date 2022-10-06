@@ -7,6 +7,8 @@ This is a script to extract population data per admin2 region in Pakistan.
 Current example is to extract population in Sindh province for all admin2 region.
 
 Prerequisit:
+    CLIMADA Installation.
+    
     PAK_POP_FILE: the file that contains population information in Pakistan
     SHP_FILE: Shape files contain the boundaries of the disired regions.
     
