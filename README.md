@@ -19,6 +19,6 @@ Publication status: Submitted to Earth's Future for peer-review
 
 (6) Columbia Climate School, Columbia University, New York, USA.
 
-(7) 7Institute for Environmental and Human Society, United Nation University, Bonn, Germany.
+(7) Institute for Environmental and Human Society, United Nation University, Bonn, Germany.
 
 Contact: Pui Man Kam (mannie.kam@usys.ethz.ch)
