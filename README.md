@@ -1,11 +1,11 @@
 # Advancing human displacement modelling: A case study of the 2022 summer floods in Pakistan.
-These scripts reproduce the main results of the paper from the Como Summer School Pakistan Flood Displacement:
+These scripts reproduce the main results of the paper from the Como Summer School on Pakistan Flood Displacement:
 
 **Advancing human displacement modelling: A case study of the 2022 summer floods in Pakistan.**
 
 P. M. Kam (1), T. Cache (2), B. Biess (3), S. Lohrey (4), S. di Vincenzo (5), J. W. McCaughey (1), R. M. Horton (6) and L. Thalheimer (7)
 
-Publication status: Submitted to Earth's Future for peer-review
+Publication status: Published in Earth's Future (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025EF006788)
 
 (1) Institute for Environmental Decisions, ETH Zürich, Zurich, Switzerland.
 
@@ -19,6 +19,6 @@ Publication status: Submitted to Earth's Future for peer-review
 
 (6) Columbia Climate School, Columbia University, New York, USA.
 
-(7) Institute for Environmental and Human Society, United Nation University, Bonn, Germany.
+(7) International Institute of Applied Systems Analysis, Laxenburg, Austria.
 
 Contact: Pui Man Kam (mannie.kam@usys.ethz.ch)
